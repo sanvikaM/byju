@@ -21,7 +21,7 @@ function draw()
   }
  
   if (keyIsDown(UP_ARROW)) {
-    background("yellow");
+    background("orange");
    }
 
   if (keyIsDown(DOWN_ARROW)) {
